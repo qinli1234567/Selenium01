@@ -69,7 +69,7 @@
           <version>2.22.2</version>
           <configuration>
             <suiteXmlFiles>
-              <suiteXmlFile>./runTestng1.xml</suiteXmlFile>
+              <suiteXmlFile>./runTest01.xml</suiteXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>
